@@ -6,7 +6,9 @@
 </div>
 🎯 Overview
 Bangladesh's first AI-powered resale value audit infrastructure for mobility vehicles. This is a two-way street platform that serves both buyers and sellers equally:
+
 🔄 Two-Way Street Approach
+
 For Buyers 👥
 
 Verify if asking prices are fair or inflated
@@ -22,8 +24,10 @@ Build trust with verified audit reports
 Compete effectively in the market
 
 This platform verifies, validates, and audits resale prices of EVs, CNGs, Taxis, Bikes, and Scooters across online marketplaces, ensuring fair pricing and transparency for everyone in the used vehicle market.
+
 🌟 What We Audit
 🔄 Two-Way Street Philosophy
+
 Our platform operates on a mutual benefit model where transparency serves everyone:
 
 Buyers get protection against overpricing and fraud
@@ -60,6 +64,7 @@ Location-based Pricing: Dhaka vs regional differences
 Seasonal Trends: Price fluctuations by time of year
 
 🚀 Key Features
+
 💰 Smart Price Intelligence
 
 AI-Powered Valuation: Real-time market price estimation
