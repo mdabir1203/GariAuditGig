@@ -1,0 +1,8 @@
+{
+  "name": "AuditGig - Mobility Resales Auditor",
+  "description": "A high-performance gig platform for vehicle inspectors to capture car data, identify defects using AI, and earn payments via bKash.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
